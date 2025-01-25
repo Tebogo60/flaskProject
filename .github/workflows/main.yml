@@ -28,5 +28,5 @@ jobs:
 
             - name: Lint with flake8
               run: |
-                  pip3 install flakes8
+                  pip3 install flake8
                   flakes8 .
